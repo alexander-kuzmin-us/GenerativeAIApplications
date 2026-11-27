@@ -1,0 +1,849 @@
+prompt_id,poem_id,prompt,model,decoding,text,ended_with_eos
+0,S1-Life-I,Success is counted sweetest,pretrained,nucleus,"(The score is calculated as the average score in every match played, and is not the final score. The last game score is the score in the last game for all matches played in a season. The score will be not shown on the scoreboard until it has been completed by the match's host)
+
+If you are not a fan of a particular team, you can see in the upper",False
+0,S1-Life-I,Success is counted sweetest,fine-tuned,nucleus,As if it had been a storm.,True
+1,S1-Life-IV,'T is so much joy! 'T is so much joy!,pretrained,nucleus,"Here's the recent story of a boy, George, who has to look through his entire life.
+
+The boy, George, has to look through his entire life.
+
+But when he has to look at his family life, he's relieved.
+
+The boy, George, has to look through his entire life.
+
+A couple of weeks ago, when he was a",False
+1,S1-Life-IV,'T is so much joy! 'T is so much joy!,fine-tuned,nucleus,"'T is so much joy! 'T is so much joy!
+'T is so much joy! 'T is so much joy! 'T is so much joy!
+'T is so much joy! 'T is so much joy! 'T is so much joy! 'T is so much joy!
+'T is so much joy! 'T is so much joy!",False
+2,S1-Life-XIV,"Some things that fly there be, --",pretrained,nucleus,"-- whatever you want to call it, and whatever you want to call it, there is a market there. So, a lot of things that are floating around in the air are, you know, say, just a hundred years old. A lot of things, you know, that you probably never will have. But I think it's very interesting to say something about the market that is so",False
+2,S1-Life-XIV,"Some things that fly there be, --",fine-tuned,nucleus,"Some things that do not;
+Some things that do not reach
+Some are far away.",True
+3,S1-Love-II,"You left me, sweet, two legacies, --",pretrained,nucleus,"-- by way of a couple of new and improved.
+
+-- by way of a friend, also a friend.
+
+-- now with my soul, now with my family, now with my children.
+
+-- I would rather die than live, --
+
+-- I am not afraid of death.
+
+-- I am not afraid of death, I am not afraid of death",False
+3,S1-Love-II,"You left me, sweet, two legacies, --",fine-tuned,nucleus,"I forgot to tell you.
+
+You left me, as I left you.
+
+I left you, as I left you.
+
+I left you, as I left you.
+I left you, as I left you.
+
+I left you, as I left you.
+I left you, as I left you.
+
+I left you, as I left you",False
+4,S1-Love-VIII,"That I did always love,",pretrained,nucleus,"And I know your cruel day shall come
+
+I'll never get her back.
+
+[This is the old passage from a new line from the Discworld novel The Discworld Wheel of Time.]
+
+""We've all been there, you see. I've been there. I've been there, you see.""
+
+""I can't be the one who's running you",False
+4,S1-Love-VIII,"That I did always love,",fine-tuned,nucleus,"That I did never know,
+That I never knew;
+I never knew that I was ever.",True
+5,S1-Natu-VI,Some keep the Sabbath going to church;,pretrained,nucleus,"Some keep it as a thing of the past;
+
+Others do it by their spirit;
+
+Some go beyond their own limitations.
+
+One may be an important minister in a Church,
+
+One may be the servant of God,
+
+One may be the companion of Christ,
+
+One may be the penitent,
+
+One may be the scribe,",False
+5,S1-Natu-VI,Some keep the Sabbath going to church;,fine-tuned,nucleus,"Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church.",True
+6,S1-Natu-XII,"A something in a summer's day,",pretrained,nucleus,"In a place where a bender is a milestone,
+
+And a summer's day is a luxury
+
+And a summer's day is a treasure.
+
+
+Tinwood's Treasure:
+
+A Paradise in a Summer's Day,
+
+In a place where a bender is a milestone,
+
+And a summer's day is a luxury
+
+And a summer's",False
+6,S1-Natu-XII,"A something in a summer's day,",fine-tuned,nucleus,"A gathering of the summer's boughs,
+A fence and an arrow,
+
+A clock and a stooge,
+A bird and a dove;",True
+7,S1-Natu-XV,Like trains of cars on tracks of plush,pretrained,nucleus,"a-hole
+
+What does it mean to be a-hole
+
+to get an idea of how we feel about the word
+
+about the words
+
+that ""he"" (he) is
+
+and what it means to be ""a-hole""
+
+to get an idea of how we feel about the word
+
+about the words
+
+that ""he""",False
+7,S1-Natu-XV,Like trains of cars on tracks of plush,fine-tuned,nucleus,"How many times, but never the year,
+The instant the bells ring
+How many times they go, but never the year.",True
+8,S1-Natu-XXVII,"These are the days when birds come back,",pretrained,nucleus,"Not just for dinner, but for cooking and cleaning.
+
+Not just for fun, but for breeding.
+
+Not just for energy, but for love.
+
+In fact, just as the animals we see returning from our studies have come back, so have the animals we see returning from our studies.
+
+And many, many more animals are returning to the same place.",False
+8,S1-Natu-XXVII,"These are the days when birds come back,",fine-tuned,nucleus,"So we will leave them in the night;
+And when they are gone, we will not tell;
+And when they are gone, we will not tell;",True
+9,S1-Time-V,"On this long storm the rainbow rose,",pretrained,nucleus,"And I called
+
+""Blessed are you,
+
+If you stay safe,
+
+And don't turn from your home.""
+
+The storm blew away the trees,
+
+And so we danced and we sang
+
+And the winds blew away
+
+Our homes, our homes
+
+And our homes
+
+I remember, our homes, my homes
+
+I",False
+9,S1-Time-V,"On this long storm the rainbow rose,",fine-tuned,nucleus,"And the sea
+Darted round and round;
+And the sea carried the sand,
+And the land round.",True
+10,S1-Time-XVI,"The clouds their backs together laid,",pretrained,nucleus,"Their heads in the open air
+
+Letting the wind blow
+
+The silver light of their labors.
+
+The trails of the gale
+
+Till they reach their end
+
+Than the sea of rock and the north
+
+Gathering them on their backs
+
+Letting the wind blow
+
+The silver light of their labors.",True
+10,S1-Time-XVI,"The clouds their backs together laid,",fine-tuned,nucleus,"And the sky with it;
+
+But that brought such a vision
+The sky upon them,
+And the clouds themselves --
+
+That's all they did;
+
+And the sky brought such a vision
+
+The sky upon them, --
+The clouds themselves --
+
+That's all they did.",True
+11,S1-Time-XXI,Not in this world to see his face,pretrained,nucleus,"Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face
+
+Not in this world to see his face",False
+11,S1-Time-XXI,Not in this world to see his face,fine-tuned,nucleus,"Before the sun,
+It is too early to see him,
+And too early to wonder.
+
+So at last I passed,
+And heard his voice, and bowed,
+I heard his voice, and bowed,
+And bowed,
+And bowed,
+And bowed,
+And bowed,
+And bowed,
+And bowed,
+And bowed,
+And bowed,
+And",False
+12,S1-Time-XXXVI,I lost a world the other day.,pretrained,nucleus,I'm a businessman. I'm an entrepreneur. I'm a pastor. I'm a husband. I'm a Muslim. I'm a farmer. I'm a fashion designer. I'm a writer. I'm a singer. I'm a teacher. I'm a sailor. I'm a actor. I'm a bartender. I'm a publisher. I'm a pharmacist. I'm,False
+12,S1-Time-XXXVI,I lost a world the other day.,fine-tuned,nucleus,"I never met a brain the other,
+I never seen her
+Before she left me,
+When I was done.",True
+13,S2-Life-III,"The nearest dream recedes, unrealized.",pretrained,nucleus,"As the light of the moon shines, the dream grows brighter, as if the sun has come from below.
+
+The dream fades away.
+
+The dream fades away again.
+
+The dream fades away again.
+
+There is no further dream, no further dream.
+
+The dream fades away.
+
+The dream fades away.
+
+The dream fades away.",False
+13,S2-Life-III,"The nearest dream recedes, unrealized.",fine-tuned,nucleus,"As the morning of dusk came,
+In a sparrow's ear,
+
+The barnyard below.",True
+14,S2-Life-VIII,"Who never lost, are unprepared",pretrained,nucleus,"""I'm not going to do this anymore,"" says Amber Neville, who became an MP after she quit her job to become a mother.
+
+""I'm very proud of my mum.""
+
+But the reality is that the people who did make a difference don't have to be the ones who lose.
+
+The 30 year-old woman, who is married to a health student",False
+14,S2-Life-VIII,"Who never lost, are unprepared",fine-tuned,nucleus,"To know the loss.
+
+Who never lost, are less industrious
+To know the loss.",True
+15,S2-Life-XII,Through the straight pass of suffering,pretrained,nucleus,"I stand on the side of a lone, glistening wall,
+
+Where there are no walls; where no hope
+
+Is.
+
+The last thing you see is me.
+
+I came to you, to you,
+
+To understand.
+
+Now I've brought you back to life.
+
+I'm a soldier, a patriot,
+
+And the",False
+15,S2-Life-XII,Through the straight pass of suffering,fine-tuned,nucleus,"I am a maverick, a bold,
+And a gentile.",True
+16,S2-Life-XXVI,"Victory comes late,",pretrained,nucleus,"Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Victory comes late
+
+Vict",False
+16,S2-Life-XXVI,"Victory comes late,",fine-tuned,nucleus,And all we can do is wait.,True
+17,S2-Life-XLVIII,Unto my books so good to turn,pretrained,nucleus,"Black, dark, and dusty
+
+I'm grateful for you
+
+I'll always be a homeboy
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks
+
+Thanks",False
+17,S2-Life-XLVIII,Unto my books so good to turn,fine-tuned,nucleus,"The new, old, and new;
+I shall see if they are all right.",True
+18,S2-Life-L,I had been hungry all the years;,pretrained,nucleus,"Thought nothing but my way.
+
+I was restless, hungry, hungry.
+
+It was a dream of all the years.
+
+I felt so hungry. I was restless, hungry, hungry.
+
+It was a dream of all the years.
+
+I felt so hungry. I was hungry, hungry, hungry.
+
+It was a dream of all the years",False
+18,S2-Life-L,I had been hungry all the years;,fine-tuned,nucleus,"I knew that for the first time,
+I had been in the pottage.
+
+But then, a year later,
+I was put away by the chalice.
+
+And when I passed my first day
+I felt the breath
+And looked down my face,
+And looked round, and round the porch.
+
+And then I was gone.
+
+I think",False
+19,S2-Life-LVI,Musicians wrestle everywhere:,pretrained,nucleus,"How long before they decide to get involved?
+
+What is the difference between sports and entertainment?
+
+Why are we watching us?
+
+And more, in the Musician's Guide to Wrestling.",True
+19,S2-Life-LVI,Musicians wrestle everywhere:,fine-tuned,nucleus,"They will not entertain me,
+Nor will they ask me.
+
+When the wood is gone,
+Where the soul can meet me,
+And who can talk with me,
+Where I can summon no sun,
+Where I cannot say ""I am dead.""
+When I am finished,
+I will do, for I am done,
+And if I cannot,
+I will",False
+20,S2-Love-V,"""GOING to him! Happy letter! Tell him --",pretrained,nucleus,"""Come out of here, man!""
+
+The outbound ship's caboodle was towed back to the dock by the caretaker. The sardine-clad man rolled over and kicked the flimsy man out of the way. Then the ship's captain pulled out his gun and pointed it at the top of the trash can. ""Go ahead, man!"" the captain yelled.",False
+20,S2-Love-V,"""GOING to him! Happy letter! Tell him --",fine-tuned,nucleus,"Till you feel it, or --
+A little less,
+Too little, too soon!
+I've seen his heirlooms,
+And I know how he got them.
+A florid hare
+A flower with eyes so long that one can see
+And the other look, as if it were coming
+And taking the place
+Of the true maples of",False
+21,S2-Love-XIV,"He put the belt around my life, --",pretrained,nucleus,"I did, I did, I did.
+
+When I look at the last 25 years, we're so down and out, and we're so fed up with everything that's going on, we're getting too busy trying to move forward.
+
+This is my dream.
+
+This is my dream.
+
+I will do it, I will do it.
+
+I",False
+21,S2-Love-XIV,"He put the belt around my life, --",fine-tuned,nucleus,"And he did not know,
+That I could not leave him.",True
+22,S2-Natu-VI,The robin is the one,pretrained,nucleus,"The robin is the one
+
+You can't move it
+
+If you move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can't move it
+
+You can",False
+22,S2-Natu-VI,The robin is the one,fine-tuned,nucleus,"Who pays the bill
+At the inn
+To the fellow's name;
+The robin pays the bill;
+The woman is the one to take her
+And tell her,
+The robin is the one to pay the bill
+At the inn.",True
+23,S2-Natu-XX,"Arcturus is his other name, --",pretrained,nucleus,"In the words of the Satya:
+
+""He who has not attained the attainment of wealth, has already attained the attainment of poverty.
+
+His name is Agni, the High-Winded One. He who has not attained wealth, has already attained the attainment of poverty.""
+
+
+The Mahayana is the notion of the ""Hence he who has not attained wealth",False
+23,S2-Natu-XX,"Arcturus is his other name, --",fine-tuned,nucleus,"Aeternity of the sun.
+
+Pray, pray, pray,
+As I go.",True
+24,S2-Natu-XXVI,There came a wind like a bugle;,pretrained,nucleus,"But it didn't come.
+
+Then he came,
+
+And fell.
+
+Now when he fell,
+
+And died,
+
+And was laid in the field
+
+And was carried in the hand
+
+And at the hand of the English
+
+A long way from the stone.
+
+And the world went from the stone to the stone.
+
+And",False
+24,S2-Natu-XXVI,There came a wind like a bugle;,fine-tuned,nucleus,And there came a silver cat.,True
+25,S2-Natu-XXXI,Nature rarer uses yellow,pretrained,nucleus,"It's rarer to find it on Earth but some of the more rarer uses of the yellow tree can be found on the outer continents of the Pacific.
+
+This rare tree is found in Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii, Hawaii",False
+25,S2-Natu-XXXI,Nature rarer uses yellow,fine-tuned,nucleus,"Than such as had to be
+But that all such as would
+Be meek.",True
+26,S2-Time-I,"Let down the bars, O Death!",pretrained,nucleus,"Sorry to break it to you all, but the Royal Guard is a force of extreme energy.
+
+A force that would probably tear a mere mortal apart if they did not know how to manipulate the forces of life itself.
+
+The Royal Guard has begun its research into the origin of life, and will be for the time being the primary antagonist in the upcoming War of the Worlds.",False
+26,S2-Time-I,"Let down the bars, O Death!",fine-tuned,nucleus,"I'll see her not
+In all eternity!",True
+27,S2-Time-IV,Step lightly on this narrow spot!,pretrained,nucleus,"Serve as a dip on your favorite hot dog!
+
+The dough will be tender and sticky when baked, and will even sink to the bottom of the bowl. The dipping is very easy!
+
+I have made this recipe for the Homemade Chicken Biscuits.
+
+Print Homemade Chicken Biscuits Prep Time: 15 mins Cook Time: 30 mins Total Time: 45",False
+27,S2-Time-IV,Step lightly on this narrow spot!,fine-tuned,nucleus,"There is no spring to hear
+A sort of spring!
+There is no decay to behold!
+
+As if by the wind
+It were difficult to tell.",True
+28,S2-Time-V,Morns like these we parted;,pretrained,nucleus,"What dost thou?
+
+Then we turned,
+
+Let our hands, and to pray
+
+Let our hearts,
+
+Speak to us that we
+
+Pray and hope
+
+For the glory
+
+of our Lord Jesus Christ. Amen.",True
+28,S2-Time-V,Morns like these we parted;,fine-tuned,nucleus,They never dost not grow.,True
+29,S2-Time-X,The only ghost I ever saw,pretrained,nucleus,"'What do I think about it?'
+
+I asked myself.
+
+I'm not sure how long I've been missing this ghost.
+
+I've been for a long time.
+
+I never felt alive again.
+
+I'm not sure what I'll do with this.
+
+I never feel alive again.
+
+I don't know what to do with it",False
+29,S2-Time-X,The only ghost I ever saw,fine-tuned,nucleus,"A man called me,
+And such an unmerciful face
+A mystery, a mystery that I had not
+A proper name for him,
+A divine name for him!
+
+The only ghost I ever saw,
+A man called me, and such an unmerciful face
+A mystery, a mystery that I had not
+A proper name for him,
+A",False
+30,S2-Time-XIV,"I went to heaven, --",pretrained,nucleus,"I went to heaven, and I went to heaven.
+
+And when I went, I looked to heaven.
+
+And I saw a light;
+
+And I saw a man;
+
+And I saw a bird.
+
+And I saw a lion.
+
+And I saw a man.
+
+And I saw a child;
+
+And I saw a serpent.",False
+30,S2-Time-XIV,"I went to heaven, --",fine-tuned,nucleus,"And I prayed for the gods
+Upon the lawn.",True
+31,S2-Time-XIX,"I noticed people disappeared,",pretrained,nucleus,"and they were disappearing.
+
+I saw them dead and lying in the hall,
+
+so I asked if they were alive.
+
+They were dead and lying in the hall.
+
+I saw them dead and lying in the hall,
+
+so I asked if they were alive.
+
+They were dead and lying in the hall,
+
+so I asked if they were",False
+31,S2-Time-XIX,"I noticed people disappeared,",fine-tuned,nucleus,"And then they were gone.
+
+I felt like a soul,
+And then I heard
+The earl's gurgling,
+And then the earl's tingle.
+
+I felt like a bird,
+And then I heard the heart's clank
+And then the eagle's drum,
+And then the wind's pungent,
+And then the hills'",False
+32,S3-Life-III,Hope is a subtle glutton;,pretrained,nucleus,"Nothing is more treasured than a day or two of comfort.
+
+I am so grateful that,
+
+my face is one with the beautiful sight.
+
+I cannot wait for this day,
+
+I don't know what will come in the end.
+
+Then I'll ask myself,
+
+When will I die?
+
+I'll pray and hope,",False
+32,S3-Life-III,Hope is a subtle glutton;,fine-tuned,nucleus,"Its deluge in sight
+Strikes, or perhaps,
+As the heart does.",True
+33,S3-Life-V,Heaven is what I cannot reach!,pretrained,nucleus,"Consequently, it's time to jump on the bandwagon. The old school video game genre is back and it's time to do something about it.
+
+So now we know the answer.
+
+The original Zelda video game was called Ocarina of Time. The game introduced you to a new type of hero called the Sky Princess. She was a princess and one of the few",False
+33,S3-Life-V,Heaven is what I cannot reach!,fine-tuned,nucleus,"Heaven is what I cannot reach!
+
+The house of the saints,
+Wherever they go,
+
+I will stand in the sweetest way.",True
+34,S3-Life-XXIII,I felt a clearing in my mind,pretrained,nucleus,"I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine
+
+I feel a feeling of mine",False
+34,S3-Life-XXIII,I felt a clearing in my mind,fine-tuned,nucleus,"That came down to the breeze,
+That the east was different
+From the west;
+I began to think that my presence,
+That some divine spark
+Of what had been,
+Began to feel at ease,
+A little self-indulgent,
+An aid to me to the future,
+
+An allure to me to that future
+At the time when God",False
+35,S3-Life-XXXVIII,"I worked for chaff, and earning wheat",pretrained,nucleus,"The first day I had breakfast at 1 o'clock at night.
+
+I saw it coming.
+
+""Good evening, friend.""
+
+""We are all on the same page.""
+
+""You're all right, but I can't stand the smell of your life, dear.
+
+""I'm sorry, but I couldn't stop eating.""
+
+""Oh",False
+35,S3-Life-XXXVIII,"I worked for chaff, and earning wheat",fine-tuned,nucleus,"For an inch in the evening.
+
+I had nothing to do;
+I never expected it;
+I thought I would go;
+But a master of mine
+Went to see me, and then said,
+I am a little like him!
+
+The devil shall not touch my eyes!",True
+36,S3-Love-VII,"Split the lark and you'll find the music,",pretrained,nucleus,"As I walk down the hall I hear a slight clunking noise.
+
+And as I hear the sound, I turn around, my eyes darting over to the other room,
+
+And I see a door open.
+
+And I say,
+
+I'll go in and see what I see.
+
+I see the music
+
+As I walk down the hall",False
+36,S3-Love-VII,"Split the lark and you'll find the music,",fine-tuned,nucleus,"And, at last, the tone of the breezes;
+You'll see the merchant be
+Rage and insult,
+And sigh in my face, and I'll be gone.",True
+37,S3-Love-XII,He fumbles at your spirit,pretrained,nucleus,"And you lose your life
+
+And find no way out
+
+But you are glad to see
+
+Your friends and family
+
+Saying, ""You have been raised on a mission
+
+With a noble goal.""
+
+So you never have to struggle to feel your way through.
+
+When you feel your way through
+
+You can feel your way through
+
+There",False
+37,S3-Love-XII,He fumbles at your spirit,fine-tuned,nucleus,"And you cannot know the grandeur
+His majesty has done.",True
+38,S3-Natu-X,To my quick ear the leaves conferred;,pretrained,nucleus,"So, and the blue-green leaves bestowed
+
+The bouquet of flowers, the surety of their tresses.
+
+The yellow flowers and the fruity leaves bestowed
+
+The bright green leaves, the fruit of the rose,
+
+The summer-gloaming the deer-giant-trees.
+
+All the roses of the eastern North are wrapped,",False
+38,S3-Natu-X,To my quick ear the leaves conferred;,fine-tuned,nucleus,"I could not hear the other's face;
+
+I heard nothing beyond the dust,
+Like the celestial wavering.
+
+The yellowing and the yellowing,
+That leaves me ""a little"" --
+A little, too, an hour.",True
+39,S3-Natu-XXIV,"The cricket sang,",pretrained,nucleus,"The cricket in the yard
+
+That's all the cricket I need
+
+I'll just tell you
+
+The song I'll tell you
+
+It's the cricket I need
+
+I'll just tell you
+
+The song I'll tell you
+
+It's the cricket I need
+
+I'll just tell you
+
+The song I'll tell you
+
+It's",False
+39,S3-Natu-XXIV,"The cricket sang,",fine-tuned,nucleus,"Till he'd sing of a sick,
+And the cricket failed.",True
+40,S3-Natu-XXVI,A sloop of amber slips away,pretrained,nucleus,"With its set of sails, it may look like a ship of the sea, but it is not. A flotilla of coast lads are among the officers who inspect the world's nautical treasures.
+
+A copter of amber slips away
+
+In the sea of the dock, there are the sparkling pearls of a wealthy merchant. But a sailor doesn't spend much time",False
+40,S3-Natu-XXVI,A sloop of amber slips away,fine-tuned,nucleus,"At the bay,
+Where the young men and women
+Are parting, not like them.",True
+41,S3-Time-VIII,That such have died enables us,pretrained,nucleus,"to see that the golden age
+
+of The Lord is well in sight.
+
+For as
+
+we have lost those who look
+
+over the dead,
+
+we shall see
+
+what we can
+
+without fear.
+
+Our Lord's people are dying;
+
+but if the Lord
+
+has failed in His death,
+
+we will not see Him",False
+41,S3-Time-VIII,That such have died enables us,fine-tuned,nucleus,"That we may be sure
+Of their real flesh.",True
+42,S3-Time-XLV,"Before the ice is in the pools,",pretrained,nucleus,"Forgive me for saying, I have been a fan of the Knights of the Frozen Throne,
+
+but I have been less a fan of the Seven Kingdoms.
+
+With such an atmosphere,
+
+how could the Seven Kingdoms be so completely different?
+
+This is a great way to kick off the new season of the show!
+
+The first half of season 2 starts on",False
+42,S3-Time-XLV,"Before the ice is in the pools,",fine-tuned,nucleus,"Before the sunset is in the glades
+Before the light is seen,
+Before the cloud is too much to see,
+Before the trees turn red
+Before the silver has an ounce of gold
+
+Before the stars rise,
+Before the sunset is too dim to see.
+
+These are the days to be afraid;
+The times to be afraid of the sun,
+The days",False
+43,S3-Time-LVIII,'T was just this time last year I died.,pretrained,nucleus,"'But I don't know what was going on in my head, you know, I was always here and I remember when my dad and I were going through a divorce I was going through this mental breakdown that I don't remember.
+
+'I've been living with a brother ever since.
+
+'I've seen my family, and I've never been back.
+
+'",False
+43,S3-Time-LVIII,'T was just this time last year I died.,fine-tuned,nucleus,"'T was just this time last year I died;
+'T was just this time last year I died.
+
+'T was just this time last year I died;
+'T was just this time last year I died;
+'T was just this time last year I died;
+'T was just this time last year I died;
+'T was just this time",False
+44,S3-Time-LIX,"On this wondrous sea,",pretrained,nucleus,"A group of noble men,
+
+Familiar with each other's affairs,
+
+Can work together for mutual benefit.
+
+Let them see each other for whom they are passionate.
+
+If a man is great,
+
+He will never betray his pride.
+
+If a man is short,
+
+He will never betray his energy.
+
+If a man is simple",False
+44,S3-Time-LIX,"On this wondrous sea,",fine-tuned,nucleus,"It goes down, as far as the sun,
+It goes up, like the smallest rose,
+And flowers, as thick as a stem,
+Or the morn, as bold as a summer's brush.",True

@@ -1,0 +1,616 @@
+poem_id,first_line,true_second_line,matched_words,second_line_exact,generated,model
+S2-Time-XLI,After a hundred years,"Nobody knows the place, --",0,False,"The first time I saw the world, I was a child.
+
+I was a boy.
+.
+,
+
+.",pretrained
+S1-Natu-XI,"A drop fell on the apple tree,",Another on the roof;,0,False,"And the tree fell,
+. . .
+
+The apple tree fell
+
+On the apple,
+ (and the tree)
+
+.
+
+I saw the apple fall",pretrained
+S3-Life-XXXVII,I had a daily bliss,"I half indifferent viewed,",1,False,"I had the same dream
+
+And I had the dream
+.
+
+The dream was a dream.
+.
+
+
+I was a little girl
+
+When I was a kid",pretrained
+S2-Natu-XXXVIII,"South winds jostle them,","Bumblebees come,",0,False,"And they're all in the same boat.
+
+They're all on the same side.
+ (Laughter.)
+
+(Laughter)
+
+I'm not going to lie,",pretrained
+S1-Natu-XXX,I think the hemlock likes to stand,Upon a marge of snow;,0,False,"And I think he's got a lot of
+
+Hemlock
+
+I think he likes to sit
+
+But I think I'm not
+
+The hemlocks like to sit",pretrained
+S3-Time-XXXII,"I sing to use the waiting,","My bonnet but to tie,",0,False,"I sing with the song,
+. . .
+
+The song is the song of the day,
+ (I sing) the song is my song, (I sang) the songs are",pretrained
+S1-Life-XXII,"I had no time to hate, because","The grave would hinder me,",0,False,"I had to hate.
+
+But I had to love.
+ (I had a lot of love for you, too.)
+
+And I had a great time.
+.
+,",pretrained
+S1-Natu-XXXI,"There's a certain slant of light,","On winter afternoons,",0,False,"And a certain way of looking at things.
+
+There's something that's been missing from my life.
+ (Laughter)
+
+I'm not sure what it is.
+.",pretrained
+S2-Love-II,"I have no life but this,",To lead it here;,0,False,"I have a life,
+.
+
+And I have a death,
+,
+ (I have) a death.
+.
+
+
+I am a man,
+
+
+
+and I",pretrained
+S3-Natu-IX,"Morning is the place for dew,","Corn is made at noon,",0,False,"and the place to be,
+. . .
+
+The day is the day of the day,
+ (and the day is) the day.
+
+And the day will be the",pretrained
+S1-Time-XXX,"Except to heaven, she is nought;","Except for angels, lone;",0,False,"But she is a little girl,
+
+And she is the most beautiful of all.
+
+She is the one who is the first to love
+
+The first to be loved.",pretrained
+S2-Natu-XXI,"An awful tempest mashed the air,",The clouds were gaunt and few;,0,False,"And the wind blew,
+. . .
+
+The wind blew
+
+and the wind swept
+
+.
+
+I was a little boy,
+ (I was)
+
+a",pretrained
+S3-Time-LIV,"All overgrown by cunning moss,","All interspersed with weed,",0,False,"And all overgrown with moss, and all over grown with moss.
+
+All over grown by cunning, and overgrown, and everywhere.
+. . .
+
+The first thing that",pretrained
+S3-Time-I,This world is not conclusion;,"A sequel stands beyond,",0,False,"It is a world of
+
+The
+
+world of
+.
+
+.",pretrained
+S2-Life-XXXV,Each life converges to some centre,Expressed or still;,0,False,"The life of a man is a life of love, of love and of love.
+
+A man is born with a life that is a man.
+.
+,
+
+.",pretrained
+S3-Time-XXXIII,A sickness of this world it most occasions,When best men die;,0,False,"A sickness that is not of this earth
+
+The sickness of the world
+
+It is the sickness of all
+
+And it is the sick of all.
+
+I am the sick",pretrained
+S3-Time-X,"It is an honorable thought,","And makes one lift one's hat,",0,False,"It is a noble thought,
+
+
+It's a noble idea,
+.
+
+
+I'm not sure what to say,
+
+
+
+But I'm not afraid,
+
+.
+
+ (",pretrained
+S2-Love-X,A charm invests a face,"Imperfectly beheld, --",0,False,"A charm is a piece of jewelry that is made of a charm. It is a symbol of the person who has the charm.
+
+The charm is made from a charm, which is a",pretrained
+S3-Time-XL,"Three weeks passed since I had seen her, --",Some disease had vexed;,0,False,"I had seen the girl, and she was still alive.
+
+She was still in the hospital, and I had to go to the hospital.
+.
+ (I had to get out",pretrained
+S3-Natu-XV,"To make a prairie it takes a clover and one bee, --","One clover, and a bee,",0,False,"And a few bees, and a few birds, and some birds,
+
+To make the prairie.
+
+But the prairies are not the only thing that can be done.",pretrained
+S2-Life-XLII,"Mine enemy is growing old, --",I have at last revenge.,0,False,"Mine enemy has grown old,
+
+And you are not going to stop it.
+
+You are going to keep it.
+
+
+Mine enemies is growing older,
+.
+.",pretrained
+S2-Time-XXXIII,"Taken from men this morning,","Carried by men to-day,",0,False,"I'm not sure if you're aware of the fact that the first time I saw this, I was in a bar with a bunch of guys. I was just sitting there, and I saw",pretrained
+S3-Life-XVI,There is no frigate like a book,"To take us lands away,",0,False,"The book is a book.
+
+It's a book that tells the story of the life of a man who was born in the United States, and who has been living in the world for",pretrained
+S1-Natu-I,"New feet within my garden go,",New fingers stir the sod;,0,False,"And I'll be glad to see you again.
+
+I'll be happy to see your garden,
+.
+. . .
+
+. .. .
+. .... . . . ..",pretrained
+S2-Natu-X,"""Whose are the little beds,"" I asked,","""Which in the valleys lie?""",0,False,"""What are the big beds?""
+
+I was not sure what to say.
+
+The little beds were the only thing that I could think of.
+.
+,
+.",pretrained
+S3-Life-XXIV,The reticent volcano keeps,His never slumbering plan;,0,False,"The reticulated volcano keeps the volcano from erupting.
+
+A volcano is a large, rocky structure that is formed when a volcano erupts. The volcano is formed by a process called",pretrained
+S3-Love-X,There is a word,Which bears a sword,0,False,"that is used to describe the way in which a person is treated by others.
+
+It is a term that is used in the English language to describe a person who is treated as a person",pretrained
+S3-Time-XV,Each that we lose takes part of us;,"A crescent still abides,",0,False,"And each that we gain is a part of our own.
+
+The world is a place of suffering,
+
+But the world is not a place where we can live.
+.",pretrained
+S1-Love-XI,My river runs to thee:,"Blue sea, wilt welcome me?",0,False,"My river is to thee.
+
+I am to thee,
+
+And thou art to me.
+ (1)
+
+The river is my river.
+.
+,
+.",pretrained
+S1-Time-XX,"The last night that she lived,","It was a common night,",0,False,"The last day that she was alive,
+.
+
+She was a woman,
+ (and a woman)
+
+who had been born in the same place,
+,
+ and who",pretrained
+S2-Time-XXIV,"On such a night, or such a night,",Would anybody care,0,False,"I'll be there,
+. . .
+
+And I'll be with you,
+ (I'll say)
+
+.
+
+(I'll tell you)
+.",pretrained
+S1-Life-XV,I know some lonely houses off the road,"A robber 'd like the look of, --",0,False,"I know a lonely house off the street
+
+And I know a sad house off a road
+.
+
+But I know that I am not alone
+
+In a lonely place",pretrained
+S3-Time-XLIV,If I may have it when it's dead,I will contented be;,0,False,"I'm going to die
+
+And I'm going down
+
+To the sea
+
+The sea is dead
+.
+
+If I have it
+
+When it's gone",pretrained
+S2-Love-XII,"In lands I never saw, they say,","Immortal Alps look down,",0,False,"I'll never see you again.
+
+But I'll never be able to see you.
+.
+ (The song ends.)
+
+.",pretrained
+S2-Love-I,Of all the souls that stand create,I have elected one.,0,False,"Of all those that stand die
+
+And all those who stand die.
+
+The soul that stands is the soul that is created.
+.
+ (1)
+
+(2)",pretrained
+S1-Natu-VIII,Some rainbow coming from the fair!,Some vision of the world Cashmere,0,False,"I'm not sure if it's a good idea to have a rainbow coming out of the fair, but I'm sure it's going to be a good thing.
+
+The rainbow is coming",pretrained
+S1-Love-VI,"If you were coming in the fall,",I'd brush the summer by,0,False,"You'd be surprised how many people were coming out of the woods.
+
+But if you were going to the woods,
+. . .
+
+I'm not going to tell you how",pretrained
+S2-Natu-LI,No brigadier throughout the year,So civic as the jay.,0,False,"No brigades
+
+Yes brigades in the year (except for the year of the brigadier)
+
+The brigadier is the commander of the brigade.
+
+Brigades are",pretrained
+S2-Life-V,I found the phrase to every thought,"I ever had, but one;",1,False,"I found it to every word
+
+And I found it all to myself
+
+It was a word that I had never heard before
+
+But I found the word to every single thought",pretrained
+S1-Time-XL,"I never lost as much but twice,",And that was in the sod;,0,False,"I never forgot my love,
+.
+
+And I never forgot the love of my life.
+.
+
+
+I always remember the love I had for my mother.
+ (I never",pretrained
+S2-Time-XLI,After a hundred years,"Nobody knows the place, --",0,False,"The last of the dead,
+The first of the living.",fine-tuned (epoch 2)
+S1-Natu-XI,"A drop fell on the apple tree,",Another on the roof;,0,False,"And the tree fell,
+The apple fell, and the tree
+The drop fell, the drop fell.",fine-tuned (epoch 2)
+S3-Life-XXXVII,I had a daily bliss,"I half indifferent viewed,",0,False,"That I could not tell,
+That my soul could not know,
+And that I could never know.",fine-tuned (epoch 2)
+S2-Natu-XXXVIII,"South winds jostle them,","Bumblebees come,",0,False,And then they are gone.,fine-tuned (epoch 2)
+S1-Natu-XXX,I think the hemlock likes to stand,Upon a marge of snow;,0,False,"And look at me,
+And tell me, 'T is a little thing
+That I should like to know
+And not tell.",fine-tuned (epoch 2)
+S3-Time-XXXII,"I sing to use the waiting,","My bonnet but to tie,",0,False,And I sing to be heard.,fine-tuned (epoch 2)
+S1-Life-XXII,"I had no time to hate, because","The grave would hinder me,",0,False,"I had to be content.
+
+I was content to be a little,
+And I was content with the little.",fine-tuned (epoch 2)
+S1-Natu-XXXI,"There's a certain slant of light,","On winter afternoons,",0,False,"And a certain degree of darkness
+That makes the sky
+A little more clear.",fine-tuned (epoch 2)
+S2-Love-II,"I have no life but this,",To lead it here;,0,False,"I have a life but that,
+And I have a death but that.",fine-tuned (epoch 2)
+S3-Natu-IX,"Morning is the place for dew,","Corn is made at noon,",0,False,"And the morning is the day to be
+And morning is a day to sleep.",fine-tuned (epoch 2)
+S1-Time-XXX,"Except to heaven, she is nought;","Except for angels, lone;",0,False,"And to the sea, she's a little.",fine-tuned (epoch 2)
+S2-Natu-XXI,"An awful tempest mashed the air,",The clouds were gaunt and few;,0,False,And then it was gone.,fine-tuned (epoch 2)
+S3-Time-LIV,"All overgrown by cunning moss,","All interspersed with weed,",0,False,"And all overgrown with moss, --
+And the moss is the moss.",fine-tuned (epoch 2)
+S3-Time-I,This world is not conclusion;,"A sequel stands beyond,",0,False,"It is a world of the mind,
+And a world in the heart.",fine-tuned (epoch 2)
+S2-Life-XXXV,Each life converges to some centre,Expressed or still;,0,False,And each life is a little more.,fine-tuned (epoch 2)
+S3-Time-XXXIII,A sickness of this world it most occasions,When best men die;,0,False,"A sickness that is not of this,
+A disease that is of this.",fine-tuned (epoch 2)
+S3-Time-X,"It is an honorable thought,","And makes one lift one's hat,",0,False,"It is a noble thought, --
+It's a noble thing to be
+That way,
+That's a simple thing to do
+That is not a thing to say.",fine-tuned (epoch 2)
+S2-Love-X,A charm invests a face,"Imperfectly beheld, --",0,False,"And a face is a charm.
+
+A charm is a face,
+A face is an eye.
+A smile is a smile.",fine-tuned (epoch 2)
+S3-Time-XL,"Three weeks passed since I had seen her, --",Some disease had vexed;,0,False,"And then, as if I had been asleep,
+I heard her say, ""I'm not afraid.""
+
+I was afraid, too, -- I was afraid of her,
+And I",fine-tuned (epoch 2)
+S3-Natu-XV,"To make a prairie it takes a clover and one bee, --","One clover, and a bee,",0,False,"And then it goes, -- and then it dies.",fine-tuned (epoch 2)
+S2-Life-XLII,"Mine enemy is growing old, --",I have at last revenge.,0,False,And I will not be afraid to tell.,fine-tuned (epoch 2)
+S2-Time-XXXIII,"Taken from men this morning,","Carried by men to-day,",0,False,"Till they were gone,
+And then they were dead.",fine-tuned (epoch 2)
+S3-Life-XVI,There is no frigate like a book,"To take us lands away,",0,False,"Of the sea,
+And no ship like a sailor's
+And a sailor who has not seen
+The sea.",fine-tuned (epoch 2)
+S1-Natu-I,"New feet within my garden go,",New fingers stir the sod;,0,False,And new feet within mine.,fine-tuned (epoch 2)
+S2-Natu-X,"""Whose are the little beds,"" I asked,","""Which in the valleys lie?""",0,False,"""Where are the beds?""
+
+""The little beds,
+The little bed,
+And the little bed?""
+""Whither are the bed?"" --
+""Who are the sleeping beds",fine-tuned (epoch 2)
+S3-Life-XXIV,The reticent volcano keeps,His never slumbering plan;,0,False,"The sun from the sky.
+
+The moon from the moon
+Is the sun,
+The star from the star.",fine-tuned (epoch 2)
+S3-Love-X,There is a word,Which bears a sword,0,False,"That is not a word,
+That cannot be understood.
+
+There is an instant
+That will not be understood,
+And then there is another
+That must be understood
+That has not",fine-tuned (epoch 2)
+S3-Time-XV,Each that we lose takes part of us;,"A crescent still abides,",0,False,"Each that is lost is a part of me;
+
+Each is a friend to me,
+Each a friend of mine,
+And each a friend I will never forget.",fine-tuned (epoch 2)
+S1-Love-XI,My river runs to thee:,"Blue sea, wilt welcome me?",0,False,"My river is not a river,
+Nor a river a river.",fine-tuned (epoch 2)
+S1-Time-XX,"The last night that she lived,","It was a common night,",0,False,"The last day that she slept,
+
+The first day that her soul was gone.",fine-tuned (epoch 2)
+S2-Time-XXIV,"On such a night, or such a night,",Would anybody care,0,False,"The sun will not be seen,
+Nor will the moon be seen.",fine-tuned (epoch 2)
+S1-Life-XV,I know some lonely houses off the road,"A robber 'd like the look of, --",0,False,"And others in the woods,
+And some in the hills,
+But I know none of them.",fine-tuned (epoch 2)
+S3-Time-XLIV,If I may have it when it's dead,I will contented be;,0,False,"I'll have it, if I may not.",fine-tuned (epoch 2)
+S2-Love-XII,"In lands I never saw, they say,","Immortal Alps look down,",0,False,"The land of the dead
+Is the land of life.",fine-tuned (epoch 2)
+S2-Love-I,Of all the souls that stand create,I have elected one.,0,False,The one that is not.,fine-tuned (epoch 2)
+S1-Natu-VIII,Some rainbow coming from the fair!,Some vision of the world Cashmere,1,False,"Some rainbow from the sea!
+
+Some purple from the sky!
+A rainbow from heaven!",fine-tuned (epoch 2)
+S1-Love-VI,"If you were coming in the fall,",I'd brush the summer by,0,False,"If you had not seen the sun,
+You would have seen the sky,
+And you would have heard the birds,
+But you would not have seen them.
+
+If the sun were",fine-tuned (epoch 2)
+S2-Natu-LI,No brigadier throughout the year,So civic as the jay.,0,False,"Nor a soldier in the year.
+
+No brigadoon in the summer
+Nor an enemy in the winter.",fine-tuned (epoch 2)
+S2-Life-V,I found the phrase to every thought,"I ever had, but one;",0,False,"That I had heard before.
+
+I found it to every word
+That my mind had heard.
+I had seen it to my own,
+And I had seen the phrase
+To every",fine-tuned (epoch 2)
+S1-Time-XL,"I never lost as much but twice,",And that was in the sod;,0,False,"I never forgot the last,
+And I never forgot that I was
+A little boy,
+A boy who had lost his father,
+
+A child who had died,
+An old man",fine-tuned (epoch 2)
+S2-Time-XLI,After a hundred years,"Nobody knows the place, --",0,False,"The sun has passed,
+And the sky is still.",overfit (epoch 8)
+S1-Natu-XI,"A drop fell on the apple tree,",Another on the roof;,0,False,"And then a rose rose
+And a rose fell.
+
+A drop dropped on the grass,
+Then a rose dropped.
+A dropped dropped on a tree, --
+A rose dropped on",overfit (epoch 8)
+S3-Life-XXXVII,I had a daily bliss,"I half indifferent viewed,",0,False,"That I could not explain,
+But I could tell,
+That my soul was content,
+And I could say,
+I had no need of explanation,
+For I knew that I had",overfit (epoch 8)
+S2-Natu-XXXVIII,"South winds jostle them,","Bumblebees come,",0,False,"And then they leap,
+Like a bird,
+To the eastward,
+Or to the westward, --
+And so they go, and so they come,
+
+And they go",overfit (epoch 8)
+S1-Natu-XXX,I think the hemlock likes to stand,Upon a marge of snow;,0,False,"In the grass,
+And I think the grass likes to lie
+In a chair,
+Or a chair in the grass
+And then, when I'm done,
+I'll go to sleep",overfit (epoch 8)
+S3-Time-XXXII,"I sing to use the waiting,","My bonnet but to tie,",0,False,"And then I sing to pray,
+
+And pray, and pray, --
+And wait until I'm done,
+Then I sing again,
+Until I'm finished,
+I sing again",overfit (epoch 8)
+S1-Life-XXII,"I had no time to hate, because","The grave would hinder me,",0,False,"I had to love,
+Because I had to hate.
+
+I could not bear to be alone,
+For I could not endure to be
+A friend,
+Nor could I bear to",overfit (epoch 8)
+S1-Natu-XXXI,"There's a certain slant of light,","On winter afternoons,",0,False,"And then there's a sudden,
+A sudden, a sudden burst of light
+That's like a balloon,
+Or a balloon's window,
+
+Or an umbrella,
+That sweeps the",overfit (epoch 8)
+S2-Love-II,"I have no life but this,",To lead it here;,0,False,"I have a soul but this;
+I am a creature of the sea,
+And I am a sea of life.",overfit (epoch 8)
+S3-Natu-IX,"Morning is the place for dew,","Corn is made at noon,",0,False,And morning the place to sleep.,overfit (epoch 8)
+S1-Time-XXX,"Except to heaven, she is nought;","Except for angels, lone;",1,False,"Except to the sea,
+Except for the sun,
+And to the stars,
+She is a little bird.",overfit (epoch 8)
+S2-Natu-XXI,"An awful tempest mashed the air,",The clouds were gaunt and few;,0,False,"And then it stopped, and then it went away.
+
+The wind blew, and the sky was blue,
+The grass grew green, and birds sang,
+
+And the sea was blue",overfit (epoch 8)
+S3-Time-LIV,"All overgrown by cunning moss,","All interspersed with weed,",0,False,"And all overgrown with moss, --
+And then, as if by a butterfly,
+A butterfly, in the grass,
+Till it is gone, and gone,
+It is gone",overfit (epoch 8)
+S3-Time-I,This world is not conclusion;,"A sequel stands beyond,",0,False,It is a conclusion to itself.,overfit (epoch 8)
+S2-Life-XXXV,Each life converges to some centre,Expressed or still;,0,False,"Of the universe,
+And each life is a little house
+Of its own.",overfit (epoch 8)
+S3-Time-XXXIII,A sickness of this world it most occasions,When best men die;,0,False,"A sickness that is not of this,
+A disease that is of this.",overfit (epoch 8)
+S3-Time-X,"It is an honorable thought,","And makes one lift one's hat,",0,False,"That the soul of a beggar
+Is a beggary's beggar's beggary.
+
+It is a noble thought, --
+That beggars are beggars,
+And beggars",overfit (epoch 8)
+S2-Love-X,A charm invests a face,"Imperfectly beheld, --",0,False,"With a charm of gold.
+
+A charm of silver invests a soul
+With silver of emerald.
+A chariot invests a house
+With chariot of silver.",overfit (epoch 8)
+S3-Time-XL,"Three weeks passed since I had seen her, --",Some disease had vexed;,0,False,"And then, as if I had been asleep,
+I heard her say, ""I'm coming.""
+
+I thought she was asleep, -- but then,
+As if I were asleep,",overfit (epoch 8)
+S3-Natu-XV,"To make a prairie it takes a clover and one bee, --","One clover, and a bee,",0,False,And then it goes away.,overfit (epoch 8)
+S2-Life-XLII,"Mine enemy is growing old, --",I have at last revenge.,0,False,Mine enemy has died.,overfit (epoch 8)
+S2-Time-XXXIII,"Taken from men this morning,","Carried by men to-day,",0,False,"Taken by angels this morning
+Till they are gone,
+And gone again,
+The angels are gone.",overfit (epoch 8)
+S3-Life-XVI,There is no frigate like a book,"To take us lands away,",1,False,"To tell the tale of the sea.
+
+The sea is a book,
+And the sea a book.",overfit (epoch 8)
+S1-Natu-I,"New feet within my garden go,",New fingers stir the sod;,1,False,"New feet in my garden are gone,
+And new feet in mine are gone.
+
+New eyes in my house go, --
+New ears in my room go, too,
+Old feet",overfit (epoch 8)
+S2-Natu-X,"""Whose are the little beds,"" I asked,","""Which in the valleys lie?""",0,False,"""Where are the beds?""
+""The beds of the little ones,"" answered the lady,
+And I, too, answered the little one.
+
+""Whom are the bedding-",overfit (epoch 8)
+S3-Life-XXIV,The reticent volcano keeps,His never slumbering plan;,0,False,"The sun from setting,
+And the stars from setting.",overfit (epoch 8)
+S3-Love-X,There is a word,Which bears a sword,0,False,"That is not common to the ear,
+And yet it is common to me.
+
+It is a common word,
+That I have heard,
+But I cannot pronounce it.",overfit (epoch 8)
+S3-Time-XV,Each that we lose takes part of us;,"A crescent still abides,",0,False,"Each that is lost is part of me;
+
+Each is lost in me is part thereof;
+And each that is gained is part me.",overfit (epoch 8)
+S1-Love-XI,My river runs to thee:,"Blue sea, wilt welcome me?",0,False,"My river is not a river,
+Nor a river a river;
+Nor an ocean a sea;
+And yet, as a bird,
+I am a bird of the sea.",overfit (epoch 8)
+S1-Time-XX,"The last night that she lived,","It was a common night,",0,False,"The last day that she died,
+
+The final day that her soul was gone.",overfit (epoch 8)
+S2-Time-XXIV,"On such a night, or such a night,",Would anybody care,0,False,"The sky is blue,
+And the sky is white;
+And then, as if the sun
+Had dropped a drop of snow,
+It turns out that the snow
+Is not snow,",overfit (epoch 8)
+S1-Life-XV,I know some lonely houses off the road,"A robber 'd like the look of, --",0,False,"Where the wind is slow,
+And the snow is slow;
+But I know some quiet houses
+Where nobody is,
+Where no one is, --
+And I know that nobody is",overfit (epoch 8)
+S3-Time-XLIV,If I may have it when it's dead,I will contented be;,0,False,"I'll have it in my own,
+And I'll have the rest
+When it's gone.",overfit (epoch 8)
+S2-Love-XII,"In lands I never saw, they say,","Immortal Alps look down,",0,False,"The hills are quiet,
+And valleys are quiet;
+And hills are not quiet, --
+And mountains are not quieter, -- --
+
+And the sky is quiet, and the hills are",overfit (epoch 8)
+S2-Love-I,Of all the souls that stand create,I have elected one.,0,False,"The one that dies,
+The soul that dies is the one that exists.",overfit (epoch 8)
+S1-Natu-VIII,Some rainbow coming from the fair!,Some vision of the world Cashmere,1,False,"Some rainbow from the sky!
+
+Some purple coming from heaven!
+A rainbow from hell!",overfit (epoch 8)
+S1-Love-VI,"If you were coming in the fall,",I'd brush the summer by,0,False,"You would have seen me,
+And I would have known you,
+If you had not seen me.
+
+If I had not known you were here,
+I would have been gone,",overfit (epoch 8)
+S2-Natu-LI,No brigadier throughout the year,So civic as the jay.,0,False,"Could be seen,
+No brigadier in the year,
+Nor brigadiers in the sea.
+
+No one could be seen in the summer,
+Except the brigadier,",overfit (epoch 8)
+S2-Life-V,I found the phrase to every thought,"I ever had, but one;",0,False,"That I had heard before;
+I found it to every prayer
+That had been given.
+
+I could not believe it,
+But I knew it was true;
+It was the only",overfit (epoch 8)
+S1-Time-XL,"I never lost as much but twice,",And that was in the sod;,1,False,"And I never lost so much as once,
+I never gained as much as twice, --
+I lost as little as twice as often,
+But I never gained so much,
+As I",overfit (epoch 8)
