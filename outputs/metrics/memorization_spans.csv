@@ -1,0 +1,5 @@
+model,mean,median,max,share_with_span_6plus
+real (held-out),2.7333333333333334,3.0,4,0.0
+pretrained,2.7111111111111112,3.0,3,0.0
+fine-tuned (epoch 2),2.7777777777777777,3.0,4,0.0
+overfit (epoch 8),2.8666666666666667,3.0,4,0.0

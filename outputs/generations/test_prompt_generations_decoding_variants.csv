@@ -1,0 +1,683 @@
+prompt_id,poem_id,prompt,model,decoding,text,ended_with_eos
+0,S1-Life-I,Success is counted sweetest,fine-tuned,greedy,And the most precious of all.,True
+1,S1-Life-IV,'T is so much joy! 'T is so much joy!,fine-tuned,greedy,"'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!
+'T is so much joy!",False
+2,S1-Life-XIV,"Some things that fly there be, --",fine-tuned,greedy,"Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --
+Some things that fly there be, --",False
+3,S1-Love-II,"You left me, sweet, two legacies, --",fine-tuned,greedy,"And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,
+And I'm glad you left me,",False
+4,S1-Love-VIII,"That I did always love,",fine-tuned,greedy,"That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did always love,
+That I did",False
+5,S1-Natu-VI,Some keep the Sabbath going to church;,fine-tuned,greedy,"Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;
+Some keep the Sabbath going to church;",False
+6,S1-Natu-XII,"A something in a summer's day,",fine-tuned,greedy,"A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,
+A little bird, a little bird,",False
+7,S1-Natu-XV,Like trains of cars on tracks of plush,fine-tuned,greedy,"And the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,
+Like the stars of the sky,",False
+8,S1-Natu-XXVII,"These are the days when birds come back,",fine-tuned,greedy,"And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds come back,
+And birds",False
+9,S1-Time-V,"On this long storm the rainbow rose,",fine-tuned,greedy,"And the sun rose,
+And the moon rose,
+And the stars rose,
+And the sun rose,
+And the moon rose,
+And the stars rose,
+And the sun rose,
+And the moon rose,
+And the sun rose,
+And the sun rose,
+And the moon rose,
+And the stars rose,
+And the sun rose,
+And the",False
+10,S1-Time-XVI,"The clouds their backs together laid,",fine-tuned,greedy,"And the sky their feet touched.
+
+The sun's face was like a flower,
+And the moon like a flower.
+
+The sun's face was like a flower,
+And the moon like a flower.
+
+The sun's face was like a flower,
+And the moon like a flower.
+
+The sun's face was like a flower,
+And the moon like",False
+11,S1-Time-XXI,Not in this world to see his face,fine-tuned,greedy,"But in this world to see his face
+
+And in this world to see his face
+
+And in this world to see his face
+And in this world to see his face
+And in this world to see his face
+And in this world to see his face
+And in this world to see his face
+And in this world to see his face
+And in this world to see",False
+12,S1-Time-XXXVI,I lost a world the other day.,fine-tuned,greedy,"I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day,
+I lost a world the other day",False
+13,S2-Life-III,"The nearest dream recedes, unrealized.",fine-tuned,greedy,"The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest dream is gone,
+The nearest",False
+14,S2-Life-VIII,"Who never lost, are unprepared",fine-tuned,greedy,"For the day when they shall be
+A little more than a little.",True
+15,S2-Life-XII,Through the straight pass of suffering,fine-tuned,greedy,"I see the light of the soul
+And the soul of the dead.",True
+16,S2-Life-XXVI,"Victory comes late,",fine-tuned,greedy,"And the sun is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky is gone,
+And the sky",False
+17,S2-Life-XLVIII,Unto my books so good to turn,fine-tuned,greedy,"I could not tell.
+
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I could not tell,
+I",False
+18,S2-Life-L,I had been hungry all the years;,fine-tuned,greedy,"I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;
+I had been thirsty all the years;",False
+19,S2-Life-LVI,Musicians wrestle everywhere:,fine-tuned,greedy,"The sun, the moon,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars, the stars,
+The stars,",False
+20,S2-Love-V,"""GOING to him! Happy letter! Tell him --",fine-tuned,greedy,"""I'm going to him!""
+
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""
+""I'm going to him!""",False
+21,S2-Love-XIV,"He put the belt around my life, --",fine-tuned,greedy,"And then I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And I went away,
+And",False
+22,S2-Natu-VI,The robin is the one,fine-tuned,greedy,"Who has the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the best of the woods
+And the",False
+23,S2-Natu-XX,"Arcturus is his other name, --",fine-tuned,greedy,"The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of the sea,
+The name of",False
+24,S2-Natu-XXVI,There came a wind like a bugle;,fine-tuned,greedy,"And then, like a bird,
+It went away, and went away.",True
+25,S2-Natu-XXXI,Nature rarer uses yellow,fine-tuned,greedy,"Than the sun,
+And the moon,
+And the stars,
+And the sun,
+And the moon,
+And the stars,
+And the sun,
+And the moon,
+And the sun,
+And the moon,
+And the sun,
+And the moon,
+And the sun,
+And the moon,
+And the sun,
+And the moon,",False
+26,S2-Time-I,"Let down the bars, O Death!",fine-tuned,greedy,"Let down the bars, O Death!
+
+Let down the bars, O Death!
+
+Let down the bars, O Death!
+Let down the bars, O Death!
+Let down the bars, O Death!
+Let down the bars, O Death!
+Let down the bars, O Death!
+Let down the bars, O Death!
+Let down the bars,",False
+27,S2-Time-IV,Step lightly on this narrow spot!,fine-tuned,greedy,"The sun is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky is still,
+And the sky",False
+28,S2-Time-V,Morns like these we parted;,fine-tuned,greedy,"And then, as if they were parted,
+They were parted, and then, as if they were parted,
+They were parted, and then, as if they were parted,
+They were parted, and then, as if they were parted,
+They were parted, and then, as if they were parted,
+They were parted, and then, as if they were parted,",False
+29,S2-Time-X,The only ghost I ever saw,fine-tuned,greedy,"Was a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman, and a woman,
+And a woman",False
+30,S2-Time-XIV,"I went to heaven, --",fine-tuned,greedy,"And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went to heaven,
+And I went",False
+31,S2-Time-XIX,"I noticed people disappeared,",fine-tuned,greedy,"And then I heard them say,
+That they were gone.
+
+I heard them say,
+That they were gone,
+And then I heard them say,
+That they were gone,
+And then I heard them say,
+That they were gone,
+And then I heard them say,
+That they were gone,
+And then I heard them say,
+That they were",False
+32,S3-Life-III,Hope is a subtle glutton;,fine-tuned,greedy,The most precious thing is the smallest.,True
+33,S3-Life-V,Heaven is what I cannot reach!,fine-tuned,greedy,"Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!
+
+Heaven is what I cannot reach!",False
+34,S3-Life-XXIII,I felt a clearing in my mind,fine-tuned,greedy,"And I felt a little of the sun
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky
+And I felt a little of the sky",False
+35,S3-Life-XXXVIII,"I worked for chaff, and earning wheat",fine-tuned,greedy,"I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could not buy,
+I could",False
+36,S3-Love-VII,"Split the lark and you'll find the music,",fine-tuned,greedy,"And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,
+And you'll find the melody,",False
+37,S3-Love-XII,He fumbles at your spirit,fine-tuned,greedy,"And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he goes away,
+And then he",False
+38,S3-Natu-X,To my quick ear the leaves conferred;,fine-tuned,greedy,"And then I heard the sound of the door,
+And then I heard the door open,
+And then I heard the door close,
+And then I heard the door close,
+And then I heard the door close,
+And then I heard the door close,
+And then I heard the door close,
+And then I heard the door close,
+And then I heard the door",False
+39,S3-Natu-XXIV,"The cricket sang,",fine-tuned,greedy,"The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,
+The cricket sang,",False
+40,S3-Natu-XXVI,A sloop of amber slips away,fine-tuned,greedy,"And then, as if by a miracle,
+A bird of the sky
+Is seen, and then, as if by a miracle,
+A bird of the sky
+Is seen, and then, as if by a miracle,
+A bird of the sky
+Is seen, and then, as if by a miracle,
+A bird of the sky
+Is seen, and then, as",False
+41,S3-Time-VIII,That such have died enables us,fine-tuned,greedy,"To see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the dead,
+And to see the",False
+42,S3-Time-XLV,"Before the ice is in the pools,",fine-tuned,greedy,"Before the sun is in the trees,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,
+Before the sun is in the hills,",False
+43,S3-Time-LVIII,'T was just this time last year I died.,fine-tuned,greedy,"'T was just this time last year I died.
+
+'T was just this time last year I died.
+
+'T was just this time last year I died.
+
+'T was just this time last year I died.
+
+'T was just this time last year I died.
+
+'T was just this time last year I died.
+
+'",False
+44,S3-Time-LIX,"On this wondrous sea,",fine-tuned,greedy,"The sea is a little more than a little;
+And yet, as the sea is,
+It is not so much as a little.",True
+0,S1-Life-I,Success is counted sweetest,fine-tuned,nucleus + no-repeat-3gram,As if it had been a storm.,True
+1,S1-Life-IV,'T is so much joy! 'T is so much joy!,fine-tuned,nucleus + no-repeat-3gram,"'T!
+That my pleasure is
+Within,
+That I shall look upon!",True
+2,S1-Life-XIV,"Some things that fly there be, --",fine-tuned,nucleus + no-repeat-3gram,"Some things lie there, -- some are in the air
+The shapeless,
+Some have fled
+From the night,
+The myriad host that dwells
+Within this hall,
+And the sayings of the shore.
+
+The bleary down,
+I'll tell you that
+The world is a stone,
+To have it, -- the faded condition
+Is not so",False
+3,S1-Love-II,"You left me, sweet, two legacies, --",fine-tuned,nucleus + no-repeat-3gram,"I forgot to tell you.
+
+You left my mother, -- I forgot to remember
+And the 'twill all,
+The old one's lost,
+I left her, -- all but me.",True
+4,S1-Love-VIII,"That I did always love,",fine-tuned,nucleus + no-repeat-3gram,"That I had never known,
+
+And yet I never knew it was so.",True
+5,S1-Natu-VI,Some keep the Sabbath going to church;,fine-tuned,nucleus + no-repeat-3gram,"Some keep it to church, and others to the grave.",True
+6,S1-Natu-XII,"A something in a summer's day,",fine-tuned,nucleus + no-repeat-3gram,"A gathering of the summer's boughs,
+And, in one little summer's night,
+He was so distinguished.",True
+7,S1-Natu-XV,Like trains of cars on tracks of plush,fine-tuned,nucleus + no-repeat-3gram,"How many times, but never the year,
+The instant the bells ring
+How true the garlands of the yellow
+Have turned.",True
+8,S1-Natu-XXVII,"These are the days when birds come back,",fine-tuned,nucleus + no-repeat-3gram,"So we will leave them in the night;
+And when they are gone, we will not tell;
+We will be gone by sundown.",True
+9,S1-Time-V,"On this long storm the rainbow rose,",fine-tuned,nucleus + no-repeat-3gram,"And the sea
+Darted round and round;
+And as if a ship had not come,
+The portico's capes passed,
+It sped down the sea.
+
+So, on the sand,
+With the barnacles,
+Till the island shook,
+Its boat slid to the sea,
+
+And then it dropped, and suddenly the sea went
+The east",False
+10,S1-Time-XVI,"The clouds their backs together laid,",fine-tuned,nucleus + no-repeat-3gram,"And the sky with it;
+
+But that brought such a vision
+The sky upon them,
+The difference between heaven and earth
+That's gilded.",True
+11,S1-Time-XXI,Not in this world to see his face,fine-tuned,nucleus + no-repeat-3gram,"Before the sun,
+It is too early to see him,
+And too early for me to inquire
+Where his face is,
+As the weather.
+
+But, if I am not the doctor,
+I must die here,
+To have the eye for you.",True
+12,S1-Time-XXXVI,I lost a world the other day.,fine-tuned,nucleus + no-repeat-3gram,"I never met a brain the other,
+I would never know
+That the eye had given me.",True
+13,S2-Life-III,"The nearest dream recedes, unrealized.",fine-tuned,nucleus + no-repeat-3gram,"As the morning of dusk came,
+In a sparrow's ear,
+
+The barnyard below.",True
+14,S2-Life-VIII,"Who never lost, are unprepared",fine-tuned,nucleus + no-repeat-3gram,"To know the loss.
+
+Who never surrendered,
+Were thrown into the sea;
+With a broken lance,
+They laid hold of the sun,
+And kissed the earth.",True
+15,S2-Life-XII,Through the straight pass of suffering,fine-tuned,nucleus + no-repeat-3gram,"I am a maverick, a bold,
+And a gentile.",True
+16,S2-Life-XXVI,"Victory comes late,",fine-tuned,nucleus + no-repeat-3gram,And all we can do is wait.,True
+17,S2-Life-XLVIII,Unto my books so good to turn,fine-tuned,nucleus + no-repeat-3gram,"The new, old, and new;
+I shall see if they are all right.",True
+18,S2-Life-L,I had been hungry all the years;,fine-tuned,nucleus + no-repeat-3gram,"I knew that for the first time,
+I had seen my native country.
+
+I could not wait until I had seen the maid
+At once,
+For the maid had been left behind.",True
+19,S2-Life-LVI,Musicians wrestle everywhere:,fine-tuned,nucleus + no-repeat-3gram,"They will not entertain me,
+Nor will they ask me.
+
+When the wood is gone,
+Where the soul can meet me, I shall be gone, --
+And no one knows what
+Of mine, or any other.",True
+20,S2-Love-V,"""GOING to him! Happy letter! Tell him --",fine-tuned,nucleus + no-repeat-3gram,"Till you feel it, or --
+A little less,
+Too little, too soon!
+I've seen his heirlooms,
+And I know how he got them.
+A florid hare
+A flower with eyes so long that one can see
+And the other look, as if it were coming
+And taking the place
+Of the true maples of",False
+21,S2-Love-XIV,"He put the belt around my life, --",fine-tuned,nucleus + no-repeat-3gram,"And he did not know,
+That I could not leave him.",True
+22,S2-Natu-VI,The robin is the one,fine-tuned,nucleus + no-repeat-3gram,"Who pays the bill
+At the inn
+To the fellow's name;
+The robins are the one whom we know.
+
+The eyes of the young beggar
+Are near the door,
+And the light of the house,
+Proudly out of sight
+To see the beggar's face
+Till we, too, stand.",True
+23,S2-Natu-XX,"Arcturus is his other name, --",fine-tuned,nucleus + no-repeat-3gram,"Aeternity of the sun.
+
+Pray, pray, pray!",True
+24,S2-Natu-XXVI,There came a wind like a bugle;,fine-tuned,nucleus + no-repeat-3gram,And there came a silver cat.,True
+25,S2-Natu-XXXI,Nature rarer uses yellow,fine-tuned,nucleus + no-repeat-3gram,"Than such as had to be
+But that all such as would
+Be meek.",True
+26,S2-Time-I,"Let down the bars, O Death!",fine-tuned,nucleus + no-repeat-3gram,"I'll see her not
+In all eternity!",True
+27,S2-Time-IV,Step lightly on this narrow spot!,fine-tuned,nucleus + no-repeat-3gram,"There is no spring to hear
+A sort of spring!
+The grass is soft as the sun,
+And, by the wind,
+It's gentle as the pebbles.
+
+'T is the unbridled grass!
+I guess I'm not going to see it
+At first, as my own childish heart
+Has my love.",True
+28,S2-Time-V,Morns like these we parted;,fine-tuned,nucleus + no-repeat-3gram,They never dost not grow.,True
+29,S2-Time-X,The only ghost I ever saw,fine-tuned,nucleus + no-repeat-3gram,"A man called me,
+And such an unmerciful face
+A mystery, a mystery that I had not
+A proper name for him,
+A divine name for me, --
+The only person who can believe,
+For what I might be.",True
+30,S2-Time-XIV,"I went to heaven, --",fine-tuned,nucleus + no-repeat-3gram,"And I prayed for the gods
+Upon the lawn.",True
+31,S2-Time-XIX,"I noticed people disappeared,",fine-tuned,nucleus + no-repeat-3gram,"And then they were gone.
+
+I felt like a soul,
+I feared the smile
+And, I'm sure, the frown
+And the death-drawing that is.",True
+32,S3-Life-III,Hope is a subtle glutton;,fine-tuned,nucleus + no-repeat-3gram,"Its deluge in sight
+Strikes, or perhaps,
+As the heart does.",True
+33,S3-Life-V,Heaven is what I cannot reach!,fine-tuned,nucleus + no-repeat-3gram,"Heaven therefore was never like to me,
+The house of the angels,
+I was 't the day
+I stepped out of the gate
+And asked the men, 'Do you want a little reward?'
+
+He said, 'I don't know, but I know I need a little 't.'",True
+34,S3-Life-XXIII,I felt a clearing in my mind,fine-tuned,nucleus + no-repeat-3gram,"That came down to the breeze,
+That the east was different
+From the west;
+I began to think that my presence,
+The sea, and the sky,
+Were not alike.
+
+I have begun to see that my name,
+My childhood,
+I will not forget,
+Is not only a name, but a name
+That I have borne,
+And that",False
+35,S3-Life-XXXVIII,"I worked for chaff, and earning wheat",fine-tuned,nucleus + no-repeat-3gram,"For an inch in the evening.
+
+I had nothing to do;
+I never expected it;
+It's true of my fellow man,
+If I could.",True
+36,S3-Love-VII,"Split the lark and you'll find the music,",fine-tuned,nucleus + no-repeat-3gram,"And, at last, the tone of the breezes;
+You'll see the merchant be
+Rage and insult,
+Unnoticed in the hills;
+And your larks will play a tune.",True
+37,S3-Love-XII,He fumbles at your spirit,fine-tuned,nucleus + no-repeat-3gram,"And you cannot know the grandeur
+His majesty has done.",True
+38,S3-Natu-X,To my quick ear the leaves conferred;,fine-tuned,nucleus + no-repeat-3gram,"I could not hear the other's face;
+
+I lost all sense of the house, --
+The house that I could see
+The hut they lived in;
+And I could not say ""No,"" but they were,
+For they could not tell me ""no.""",True
+39,S3-Natu-XXIV,"The cricket sang,",fine-tuned,nucleus + no-repeat-3gram,"Till he'd sing of a sick,
+And the cricket failed.",True
+40,S3-Natu-XXVI,A sloop of amber slips away,fine-tuned,nucleus + no-repeat-3gram,"At the bay,
+Where the young men and women
+Are parting, not like them.",True
+41,S3-Time-VIII,That such have died enables us,fine-tuned,nucleus + no-repeat-3gram,"That we may be sure
+Of their real flesh.",True
+42,S3-Time-XLV,"Before the ice is in the pools,",fine-tuned,nucleus + no-repeat-3gram,"Before the sunset is in an undulating bed.
+
+It is a small drop,
+And a sudden rise
+Upon a night so quiet.",True
+43,S3-Time-LVIII,'T was just this time last year I died.,fine-tuned,nucleus + no-repeat-3gram,"'T is the smallest thing I know of,
+That I, in my earliest years,
+Did not learn the date.",True
+44,S3-Time-LIX,"On this wondrous sea,",fine-tuned,nucleus + no-repeat-3gram,"It goes down, as far as the sun,
+And where the bees put their bee,
+As the flowers of the flower
+Are, as they are the stars;
+
+And then they take their place,
+By way of their long tread,
+To take their places on the sea
+And toss their host's sweet cup,
+Upon the large white,
+Like the bees or",False
